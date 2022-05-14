@@ -8,20 +8,6 @@ Final Account Balances for the three accounts
   Linda: account 3
   The Dbeaver screenshot of the balances after all transactions were done sequentially
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
   ![Screenshot from 2022-05-14 13-16-03](https://user-images.githubusercontent.com/50520226/168421838-fdbf74bf-fae8-4a4d-93d0-8c2c76aa5069.png)
   
   How to make the simulation more realistic:
